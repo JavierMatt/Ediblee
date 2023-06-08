@@ -15,10 +15,8 @@
 
 #Front-page {
     display: flex;
-    width: 1280px;
-    height: 720px;
-    padding-left: 80px;
-    padding-top: 152px;
+    padding-left: 5%;
+    padding-top: 5%;
 }
 
 #Detail-page {
